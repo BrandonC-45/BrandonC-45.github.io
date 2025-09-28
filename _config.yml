@@ -1,6 +1,8 @@
 theme: minima
 title: Brandon's Website
-
+author:
+  name: Brandon C
+  email: ---
 description: Welcome to my first webpage using github!
 
 minima:
