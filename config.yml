@@ -1,2 +1,6 @@
-theme: minimal
+theme: minima
 title: Brandon's website
+descprition: Welcome to my first webpage using github!
+url: "https://brandonc-45.github.io/"
+minima:
+  skin: dark
