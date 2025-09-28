@@ -1,8 +1,8 @@
-# Brandon's Website
+## This is the readme file
 Welcome to my second github repository!
 Created: 9/28/2025
 
 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> I didn't know that the config file can grab it's settings from a differernt repository.
