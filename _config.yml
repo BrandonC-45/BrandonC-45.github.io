@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Brandon's homepage
-description: Welcome to my first webpage using github!
-p: <a name="Link to my webpage"></a> (#https://brandonc-45.github.io/)
+description: Welcome to my first webpage using github! This site was built using [GitHub Pages](https://pages.github.com/).
+
+description: Another link to my webpage:[https://brandonc-45.github.io/](https://brandonc-45.github.io/)
+
